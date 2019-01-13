@@ -20,7 +20,14 @@
         <activity
             android:name=".SignIn"
             android:theme="@style/login_theme" />
-        <activity android:name=".Sign_up" android:theme="@style/login_theme"/>
+        <activity
+            android:name=".Sign_up"
+            android:theme="@style/login_theme" />
+        <activity
+            android:name=".Packages"
+            android:label="@string/title_activity_packages"
+            android:theme="@style/login_theme" />
+        <activity android:name=".detail" android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

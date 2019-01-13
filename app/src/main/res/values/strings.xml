@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Package_login</string>
+    <string name="title_activity_packages">Packages</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="description">You can visit In these place at peaceful and Be Happy</string>
 </resources>
